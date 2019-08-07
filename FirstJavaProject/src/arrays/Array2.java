@@ -16,10 +16,10 @@ public class Array2 {
 		for(i=0;i<2;i++)
 		{
 			for (j = 0; j<2; j++) {
-				System.out.println(s[i][j]);
+				System.out.print( s[i][j]+" ");
 				
 			}
-		//System.out.println();
+		System.out.println();
 			}
 	}
 }
